@@ -19,7 +19,7 @@ Once the software is tested and ready, it is deployed to the production environm
 After deployment, the software will require maintenance to handle any new issues, updates, or improvements.
 
 
-###### Different models of SDLC include the Waterfall Model, Iterative Model, Spiral Model, V-Model, and Big Bang Model. Each model has its unique approach to software development and is chosen based on the project’s needs
+#### Different models of SDLC include the Waterfall Model, Iterative Model, Spiral Model, V-Model, and Big Bang Model. Each model has its unique approach to software development and is chosen based on the project’s needs.
 
 
 ****
